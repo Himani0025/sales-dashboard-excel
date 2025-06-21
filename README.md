@@ -7,7 +7,7 @@ It analyzes sales across cities, products, and time using PivotTables, Charts, a
 
 ## Files Included
 
-- 'Sales_Dashboard_HimaniSharma.xlsx' – Editable Excel file
+- [Click here to download the Excel Dashboard] ('Sales_Dashboard_HimaniSharma.xlsx')
 
 ---
 
